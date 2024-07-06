@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AbhirajTiwari12
+- 👀 I’m interested in web development and artificial intelligence
+- 🌱 I’m currently learning NodeJS, ReactJS, TF/PyTorch, data science libraries.
+- 💞️ I’m looking to collaborate on projects within the AI field or anything involving web development.  
+- 📫 Send me an email at abhirajtiwari0102@gmail.com
